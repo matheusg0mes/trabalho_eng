@@ -3,7 +3,7 @@ public class Turma {
     private String turno;
     private String horaInicio;
     private String horarioFim;
-      private List <Disciplina> Disciplina = new ArreyList();
+    private List <Disciplina> Disciplina = new ArreyList();
     private List <Professor> professor = new ArreyList();
 
     public Turma() {}

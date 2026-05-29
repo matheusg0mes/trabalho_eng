@@ -1,7 +1,7 @@
 public class Cursa {
     private int idCursa;
     private Aluno aluno;
-    private Turma turma;
+    private List <Turma> Turma = new ArreyList();
     private int ano;
     private int semestre;
 
